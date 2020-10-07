@@ -4,3 +4,8 @@ Mapa Złotego Stoku wykonana za pomocą modułu Folium. Zawiera elementy raportu
 # The interactive map of Zloty Stok, town in southern Poland
 
 Map of Zloty Stok constructed using Folium module. Contains elements of III edytion School of Local Leaders report. Every photo credit goes to the person who has taken the picture (mentioned below each image).
+
+# Link do skompilowanej mapy umieszczonej na Heroku:
+https://gold-map.herokuapp.com/index.html
+# Link to precompiled map on Heroku:
+https://gold-map.herokuapp.com/index.html
